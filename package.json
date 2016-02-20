@@ -1,0 +1,24 @@
+{
+  "name": "record",
+  "version": "1.0.0",
+  "description": "Records numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"build-css": "node-sass --include-path css sass/materialize.scss css/materialize.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mschleifer/Record.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mschleifer/Record/issues"
+  },
+  "homepage": "https://github.com/mschleifer/Record#readme",
+  "devDependencies": {
+    "node-sass": "^3.4.2",
+    "nodemon": "^1.8.1"
+  }
+}

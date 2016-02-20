@@ -12,3 +12,29 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+.no-margin-top {
+	margin-top: 0px;
+}
+
+.no-margin-bot {
+	margin-bottom: 0px;
+}
+
+.no-margin-top-bot {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.no-pad-top {
+	padding-top: 0px;
+}
+
+.no-pad-bot {
+	padding-bottom: 0px;
+}
+
+.no-pad-top-bot {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
